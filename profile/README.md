@@ -1,6 +1,6 @@
 **The [Kenneth C. Griffin Applied Economic Incubator](https://econincubator.uchicago.edu/)** GitHub repository is a collaborative platform designed to share tools and frameworks that advance applied economic research in Industrial Organization.
 
-This repository features code and data associated with the following topics:
+This repository features code associated with the following topics:
 
 **Antitrust**
 
