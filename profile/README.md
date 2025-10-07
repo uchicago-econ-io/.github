@@ -6,8 +6,6 @@ This repository features code associated with the following topics:
 
 **Auction**
 
-**Dataset**
-
 **Demand-Estimation**
 
 **Digital-Markets**
@@ -28,6 +26,6 @@ This repository features code associated with the following topics:
 
 **Vertical-Markets**
 
-We also maintain a repository that includes small datasets and links to larger ones.
+We also maintain a repository **Dataset** that includes small datasets and links to larger ones.
 
 As we establish this foundation, our goal is to build a code and data repository that reflects the rigor and standard of excellence associated with the **University of Chicago**.
