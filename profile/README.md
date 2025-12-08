@@ -16,7 +16,6 @@ This repository features:
   - **Search**  
   - **Vertical-Markets**
 
-- We also maintain a repository **Dataset**  that includes small datasets and links to larger ones.
 
 
 As we establish this foundation, our goal is to build a code and data repository that reflects the rigor and standard of excellence associated with the **University of Chicago**.
