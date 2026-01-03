@@ -2,7 +2,7 @@
 
 This repository features:
 
-- Code associated with papers on the following topics:
+- Code associated with published papers on the following topics:
   - **Antitrust**  
   - **Auction**  
   - **Demand-Estimation**  
