@@ -20,4 +20,4 @@ This repository features:
 
 As we establish this foundation, our goal is to build a code and data repository that reflects the rigor and standard of excellence associated with the **University of Chicago**.
 
-Please contact us to request collaborator access to the private GitHub repository: https://github.com/uchicago-econ-io/uchicagogithub/tree/main/collabspace/topics/
+Please contact us to request collaborator access to the GitHub repository: https://github.com/uchicago-econ-io/uchicagogithub/tree/main/collabspace/topics/
