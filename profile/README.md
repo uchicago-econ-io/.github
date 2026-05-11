@@ -14,7 +14,7 @@ This repository features:
   - **Pricing-Market-Structure**  
   - **Production-Function**  
   - **Search**  
-  - **Vertical-Markets**
+  - **Vertical-Markets and Bargaining**
 
 
 
